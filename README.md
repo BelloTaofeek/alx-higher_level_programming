@@ -1,0 +1,1 @@
+This is my first Higher Level Programming Language in ALX SE Programme, starting with Python, pushing through the programme with project and other self assessment I hope this can serve as a study guide for other stydents as well as other software engineers who arestarting from the scratch like me.
